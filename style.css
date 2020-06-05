@@ -1,0 +1,286 @@
+.header {
+    background-color: #CBCBCB ;
+}
+.fa-facebook, .fa-instagram, .fa-twitter, .fa-youtube {
+    font-size: 19px !important;
+    color: #39004d !important;
+}
+#logoss {
+    padding-top: 10px;
+}
+#twit {
+    padding-right: 9px;
+}
+#phone {
+    padding-top: 10px;
+}
+#div1 {
+    text-align: center;
+}
+#insta {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#mail {
+    padding-top: 10px;
+}
+@media screen and (max-width: 600px) {
+    #logoss {
+        text-align: center;
+        font-size: 20px;
+    }
+}
+@font-face {
+    font-family: "elmessiri";
+    src: url('ElMessiri-Bold.ttf');
+}
+@font-face {
+    font-family: "messiri";
+    src: url("ElMessiri-SemiBold.ttf");
+}
+.card-title {
+    color: #39004d;
+    font-family: "messiri";
+}
+.fon {
+    font-family: 'PT SERIF';
+    src: url('PTSerif-Regular.ttf');
+    color: #39004d;
+    font-size: 18px;
+    font-style: italic;
+}
+.dropdown-item:hover {
+    background-color: #39004d;
+    text-transform: uppercase;
+    font-weight: 500
+}
+.fa-phone, .fa-envelope {
+    font-size: 20px !important;
+    color: #39004d !important;
+   
+}
+#logoss ul{
+    padding-left: 10px;
+}
+#logoss li {
+    list-style: none;
+    display: inline;
+}
+.navbar {
+    background-color: #39004d!important;
+    color: bisque !important;
+    border: double bisque ;
+}
+.nav-link {
+    font-family: "marcellus";
+}
+.nav-link:hover {
+    font-weight: 600;
+    background-color: #672c7c;
+    border-radius: 10px;
+}
+.fa-yelp {
+    font-size: 33px !important;
+    position: relative;
+    left: 45px;
+}
+.mar1 {
+    background-color: #CBCBCB;
+    height: 27px;
+    color: #39004d;
+}
+@font-face {
+    font-family: "cormorant";
+    src: url('CormorantUpright-Medium.ttf');
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+a {
+    color: bisque !important;
+}
+@font-face {
+    font-family: "marcellus";
+    src: url("MarcellusSC-Regular.ttf");
+}
+.heading {
+    color: bisque;
+    padding-left: 50px;
+    padding-top: 12px;
+    font-family: "marcellus";
+
+} 
+.dropdown-menu {
+    background-color: #672c7c;
+}
+#image {
+    height: 500px !important;
+}
+.imgt {
+    color: #39004d;
+    font-weight: bolder;
+    font-size: 35px;
+}
+.welcome {
+    padding-left: 60px;
+    padding-top: 20px;
+    color: #39004d;
+    font-family: "elmessiri";
+}
+.footer {
+    background-color: #39004d;
+    color: bisque;
+    font-weight: 600;
+    height: 60px;
+    margin-bottom: 0em;
+    margin-top: 70px;
+}
+.paras {
+    height: 430px;
+    background-color: #CBCBCB;
+    margin-top: 0;
+    position: relative;
+    bottom: 6px;
+}
+.footert {
+    padding-top: 10px;
+    padding-left: 25px;
+}
+.carousel1 {
+    border-left: 10px solid #39004d;
+    border-right: 10px solid #39004d;
+}
+#image {
+    border-top: 10px solid bisque;
+    border-bottom: 10px solid bisque;
+}
+#carouselExampleCaptions {
+    margin-top: 0em !important;
+    position: relative;
+    bottom: 5.8px;
+}
+.work {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: #CBCBCB;
+    position: relative;
+    bottom: 6px;
+    padding-top: 30px;
+}
+.abc,.work1 {
+    background-color: #CBCBCB;
+}
+.work1 {
+    position: relative;
+    bottom: 6px;
+    border-top: double #672c7c;
+    border-bottom: double #672c7c;
+}
+.workheading {
+    color: #39004d;
+    text-align: center;
+    font-size: 35px;
+    font-family: "elmessiri";
+    padding-top: 40px;
+}
+.pica {
+    height: 260px;
+    width: 300px ;
+}
+.card {
+    margin: 15px 15px 15px 15px;
+    border: double #39004d;
+}
+.card-body {
+    background-color: rgb(226, 225, 225);
+}
+.whyus {
+    border-bottom: 1px solid rgb(138, 136, 136);
+    border-left: 1px solid rgb(138, 136, 136);
+    box-shadow: 3px 3px 3px gray;
+    font-family: "cormorant";
+    font-size: 17px;
+    color: black;
+}
+.mul {
+    padding-left: 40px;
+    font-family: "cormorant";
+    font-size: 17px;
+    color: black;
+}
+
+.fa-phone-square, .fa-at, .fa-comments, .fa-facebook-square {
+    color: #39004d !important;
+    font-size: 110px !important;
+}
+.contactheading {
+    color: #39004d;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 10px;
+    font-family: "marcellus";
+}
+ .arow {
+    padding-top: 20px ; 
+}
+.cc {
+    font-size: 40px;
+    position: relative;
+    bottom: 45px;
+    left: 20px;
+    font-family: "marcellus";
+}
+.ccbelow {
+    font-size: 19px;
+    position: relative;
+     right: 160px;
+    bottom: 15px; 
+    font-family: "marcellus";
+}
+.cc1 {
+    font-size: 32px ;
+    position: relative;
+    bottom: 45px;
+    left: 30px;
+    font-family: "marcellus";
+}
+.cc2 {
+    font-size: 30px;
+     position: relative;
+     bottom: 37px;
+    left: 25px; 
+    font-family: "marcellus";
+}
+.cc3 {
+    font-size: 30px;
+    position: relative;
+    bottom: 39px;
+    left: 25px;
+    font-family: "marcellus";
+}
+.bodyy {
+    background-color: #CBCBCB;
+}
+.msg {
+    color: #39004d;
+    font-family: "marcellus";
+}
+.formm {
+    font-family: "marcellus";
+    color: #39004d;
+}
+.send {
+    background-color: #672c7c;
+    border: 1px solid #39004d;
+    margin-left: 60px;
+}
+.send:hover {
+    background-color: #39004d;
+    border: 2px solid bisque;
+}
+.send:focus {
+    background-color: #39004d;
+    border: 2px solid #672c7c;
+}
